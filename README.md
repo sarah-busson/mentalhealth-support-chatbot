@@ -43,6 +43,10 @@ The Infermedica API requires an authentification key, available upon request thr
 
 ## Index
 
+- Data: contains all dataset used to train the chatbot and the DL model.
+- Code: contains jupyter notebook files used during this project. 'Conversational-Chatbot is the final one.
+- Images: contains wordcloud, Tableau graph and screenshot of a test on HOA.
+
 ## Links
 
 [Trello Board](https://trello.com/b/RLEPS6Ge/ironhack-final-project)
