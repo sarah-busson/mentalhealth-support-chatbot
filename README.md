@@ -16,7 +16,8 @@ Sarah Busson
 
 ## Project Description
 
-*For a visual and more detailed explanation, see the file 'HOA_pres' : https://github.com/sarah-busson/mentalhealth-support-chatbot/blob/gh-pages/HOA_pres.pdf*
+*For a visual and more detailed explanation, see the file 'HOA_pres' : https://github.com/sarah-busson/mentalhealth-support-chatbot/blob/gh-pages/HOA_pres.pdf*  
+
 Let me introduce you to HOA: a chatbot made to detect and help people with mental health issues.
 This subject makes sense to me, as mental health is a field still misunderstood (by science, but even by ourselves) and I know by experience that having a chatbot ready to give me some insights on my mental health could have been helpful and could have pushed me in the right direction.
 
