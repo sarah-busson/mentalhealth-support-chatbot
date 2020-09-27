@@ -44,7 +44,7 @@ The Infermedica API requires an authentification key, available upon request thr
 ## Index
 
 - Data: contains all dataset used to train the chatbot and the DL model.
-- Code: contains jupyter notebook files used during this project. 'Conversational-Chatbot is the final one.
+- Code: contains jupyter notebook files used during this project. 'HOA_Chatbot is the final one, https://github.com/sarah-busson/mentalhealth-support-chatbot/blob/gh-pages/code/HOA_Chatbot.ipynb
 - Images: contains wordcloud, Tableau graph and screenshot of a test on HOA.
 
 ## Links
